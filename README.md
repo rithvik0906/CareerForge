@@ -1,5 +1,7 @@
 # 🚀 CareerForge – AI Career Companion
 
+## 🔗Live Demo: https://career-forge-ten.vercel.app/
+
 CareerForge is an AI-powered career guidance platform designed to help students and early professionals understand their career readiness, identify skill gaps, plan learning paths, prepare for interviews, and explore relevant job opportunities — all in one place.
 
 ---
@@ -127,6 +129,36 @@ CareerForge analyzes a user’s resume and target role, then uses AI to:
 - **Local Storage** (hackathon persistence)
 
 ---
+
+## 🏗️ Project Structure
+
+careerforge/
+│
+├── components/
+│   ├── DashboardCards.tsx
+│   ├── LandingPage.tsx
+│   ├── ScoreGauge.tsx
+│   ├── Sidebar.tsx
+│   ├── SkillCard.tsx
+│   ├── SkillsContainer.tsx
+│   └── TopNavigation.tsx
+│
+├── services/
+│   ├── authService.ts
+│   └── gemini.ts
+│
+├── App.tsx
+├── README.md
+├── index.html
+├── index.tsx
+├── metadata.json
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+├── types.ts
+├── vercel.json
+├── vite-env.d.ts
+└── vite.config.ts
 
 ---
 

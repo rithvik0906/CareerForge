@@ -1,6 +1,6 @@
 # 🚀 CareerForge – AI Career Companion
 
-- **🔗Live Demo:** https://career-forge-ten.vercel.app/
+- **🔗Live Demo:** https://career-forge-pi.vercel.app/
 
 CareerForge is an AI-powered career guidance platform designed to help students and early professionals understand their career readiness, identify skill gaps, plan learning paths, prepare for interviews, and explore relevant job opportunities — all in one place.
 
